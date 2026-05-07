@@ -160,10 +160,4 @@ You can later refactor this to lift subscription state to `App.jsx` or a context
 
 ---
 
-## License
 
-This project can be used freely for learning, practice, and portfolio purposes.
-
----
-
-If you tell the target use (assignment, mini-project, or resume project), a short section can be added to this README to match that context. What is the main place where you plan to use this project (college submission, GitHub portfolio, or something else)?
